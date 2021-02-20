@@ -39,7 +39,7 @@
 ```
 |화면|사진|
 |--|--|
-|화면1||<img width="574" alt="1" src="https://user-images.githubusercontent.com/63542000/108583972-eaf70f00-7380-11eb-998d-f70a3b84d08c.png">|
+|화면1||<img width="514" alt="2" src="https://user-images.githubusercontent.com/63542000/108585378-a624a580-738b-11eb-8ca5-bef730c6da58.png">|
 
 <img width="514" alt="2" src="https://user-images.githubusercontent.com/63542000/108585378-a624a580-738b-11eb-8ca5-bef730c6da58.png">
 
