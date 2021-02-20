@@ -39,4 +39,4 @@
 ```
 |화면|사진|
 |--|--|
-|화면1||![1](./desktop/1.jpg)|
+|화면1||<img width="574" alt="1" src="https://user-images.githubusercontent.com/63542000/108583972-eaf70f00-7380-11eb-998d-f70a3b84d08c.png">|
