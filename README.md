@@ -39,8 +39,8 @@
 ```
 |화면|사진|
 |--|--|
-|화면1|왜안들어가냐|
-|화면2|||
+|화면1|<img src="https://user-images.githubusercontent.com/63542000/108585615-b25d3280-738c-11eb-9c72-961ee370b435.png"  width="514">|
+|화면2|<img src="https://user-images.githubusercontent.com/63542000/108585618-b426f600-738c-11eb-9447-9995763bb8be.png" width="514">|
 
-<img src="https://user-images.githubusercontent.com/63542000/108585615-b25d3280-738c-11eb-9c72-961ee370b435.png"  width="514">
-<img src="https://user-images.githubusercontent.com/63542000/108585618-b426f600-738c-11eb-9447-9995763bb8be.png" width="514">
+
+
