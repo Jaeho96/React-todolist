@@ -41,6 +41,6 @@
 |--|--|
 |화면1|| |
 |화면2|| |
-<img width="574" alt="1" src="https://user-images.githubusercontent.com/63542000/108585615-b25d3280-738c-11eb-9c72-961ee370b435.png">
+<img width="514" alt="1" src="https://user-images.githubusercontent.com/63542000/108585615-b25d3280-738c-11eb-9c72-961ee370b435.png">
 <img width="514" alt="2" src="https://user-images.githubusercontent.com/63542000/108585618-b426f600-738c-11eb-9447-9995763bb8be.png">
 
