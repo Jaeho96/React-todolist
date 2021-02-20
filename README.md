@@ -39,8 +39,6 @@
 ```
 |화면|사진|
 |--|--|
-|화면1||사진1|
-|화면2||사진2|
-
-<img width="514" alt="2" src="https://user-images.githubusercontent.com/63542000/108585378-a624a580-738b-11eb-8ca5-bef730c6da58.png">
+|화면1|| |
+|화면2|| |
 
